@@ -2,7 +2,6 @@ from calcipv4 import CalcIPv4
 
 
 def main():
-    """ Exemplos práticos """
 
     #Com prefixo
     calc_ipv4_1 = CalcIPv4(ip='192.168.0.128', prefixo=30)
